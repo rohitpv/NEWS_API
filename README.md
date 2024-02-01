@@ -1,4 +1,4 @@
 # NEWS_API
 
 
-live web page at  https://pvrohit100.github.io/NEWS_API/
+live web page at  https://pv-rohit.web.app/proj/NEWS_API/index.html
